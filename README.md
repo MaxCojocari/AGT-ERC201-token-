@@ -1,2 +1,2 @@
-# AGT-ERC201-token-
+# AGT-ERC201-token
 New ERC20 token
